@@ -1,4 +1,4 @@
-#Análise de Indicadores de Continuidade do Serviço Elétrico — ANEEL
+**Análise de Indicadores de Continuidade do Serviço Elétrico — ANEEL**
 
 Projeto de análise exploratória de dados públicos da ANEEL com foco nos indicadores de continuidade do fornecimento de energia elétrica, visando compreender o desempenho das distribuidoras, identificar padrões e tendências e detectar possíveis desvios nos níveis de qualidade do serviço.
 
